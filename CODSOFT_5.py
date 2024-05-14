@@ -1,4 +1,4 @@
-#Task 5 - Contact Book
+#CODSOFT_TASK_5 - Contact Book
 
 contacts = []
 
