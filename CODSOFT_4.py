@@ -1,4 +1,4 @@
-#Task 4 - Rock , paper , scissors Game
+#CODSOFT_TASK_4 - Rock , paper , scissors Game
 
 
 import random
