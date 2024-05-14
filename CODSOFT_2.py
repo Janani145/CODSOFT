@@ -1,4 +1,4 @@
-#Task 2 - Calculator 
+#CODSOFT_TASK_2 - Calculator 
 
 
 #FUNCTIONS TO PERFORM ARITHMETIC OPERATIONS
