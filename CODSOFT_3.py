@@ -1,4 +1,4 @@
-#Task 3 - Password Generator 
+#CODSOFT_TASK_3 - Password Generator 
 import random
 import string
 
