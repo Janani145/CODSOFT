@@ -1,4 +1,4 @@
-#TASK_1 - TO DO LIST 
+#CODSOFT_TASK_1 - TO DO LIST 
 
 class ToDoList:
     def __init__(self):
